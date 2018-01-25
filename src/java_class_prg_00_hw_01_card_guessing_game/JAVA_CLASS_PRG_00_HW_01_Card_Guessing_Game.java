@@ -6,7 +6,6 @@
 package java_class_prg_00_hw_01_card_guessing_game;
 
 import java.util.Scanner;
-import javax.swing.JOptionPane;
 /**
  * This application generates a menu for the user to either play the game or
  * set a custom hand size.
