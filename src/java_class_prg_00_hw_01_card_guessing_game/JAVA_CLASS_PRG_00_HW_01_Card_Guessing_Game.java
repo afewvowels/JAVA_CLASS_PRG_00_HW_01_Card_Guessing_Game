@@ -18,6 +18,10 @@ public class JAVA_CLASS_PRG_00_HW_01_Card_Guessing_Game {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        showMenu();
+    }
+    
+    public static void showMenu() {
         int intMenuSelection = -1;
         int intHandSize;
         
